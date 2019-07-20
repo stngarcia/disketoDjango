@@ -64,3 +64,4 @@ settings.json
 readme.txt
 base-requirements.txt
 local_settings.py
+*.db
