@@ -1,5 +1,6 @@
 *.pyc
 *.db
 __pycache__
+local_settings.py
 base-requirements.txt
 readme.txt
